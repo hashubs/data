@@ -222,13 +222,5 @@
     "category": "auto-discovered",
     "icon_url": null,
     "verified": 1
-  },
-  {
-    "ecosystem": "sui",
-    "package_id": "0x0000000000000000000000000000000000000000000000000000000000000002",
-    "name": "Unknown",
-    "category": "unknown",
-    "icon_url": null,
-    "verified": 0
   }
 ]
