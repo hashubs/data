@@ -230,13 +230,5 @@
     "category": "unknown",
     "icon_url": null,
     "verified": 0
-  },
-  {
-    "ecosystem": "sui",
-    "package_id": "0xe44dfbca16d4801977939518d43d64a1c6dc032c06ecf77f2b2df8d8dfe32880",
-    "name": "Unknown",
-    "category": "unknown",
-    "icon_url": null,
-    "verified": 0
   }
 ]
