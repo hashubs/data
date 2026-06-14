@@ -1,0 +1,226 @@
+[
+  {
+    "ecosystem": "sui",
+    "package_id": "0x1eabed72c53feb3805120a081dc15963c204dc8d091542592abaf7a35689b2fb",
+    "name": "Cetus",
+    "category": "dex",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0x35169bc93e1fddfcf3a82a9eae726d349689ed59e4b065369af8789fe59f8608",
+    "name": "Momentum",
+    "category": "dex",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0x83556891f4a0f233ce7b05cfe7f957d4020492a34f5405b2cb9377d060bef4bf",
+    "name": "SpringSui",
+    "category": "staking",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d",
+    "name": "Haedal",
+    "category": "staking",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0xee0041239b89564ce870a7dec5ddc5d114367ab94a1137e90aa0633cb76518e0",
+    "name": "Navi Protocol",
+    "category": "lending",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0xa45b8ffca59e5b44ec7c04481a04cb620b0e07b2b183527bca4e5f32372c5f1a",
+    "name": "Scallop",
+    "category": "lending",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0x6864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b",
+    "name": "Cetus",
+    "category": "dex",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0xce7ff77a83ea0cb6fd39bd8748e2ec89a3f41e8efdc3f4eb123e0ca37b184db2",
+    "name": "Bucket Protocol",
+    "category": "cdp",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0xfe3afec26c59e874f3c1d60b8203cb3852d2bb2aa415df9548b8d688e6683f93",
+    "name": "AlphaFi",
+    "category": "yield",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0x337f4f4f6567fcd778d5454f27c16c70e2f274cc6377ea6249ddf491482ef497",
+    "name": "DeepBook",
+    "category": "dex",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "aptos",
+    "package_id": "0x48271d39d0b05bd6efca2278f22277d6fcc375504f9839fd73f74ace240861af",
+    "name": "ThalaSwap",
+    "category": "dex",
+    "icon_url": "https://raw.githubusercontent.com/aptscan-ai/public-logos/main/thala.png",
+    "verified": 1
+  },
+  {
+    "ecosystem": "aptos",
+    "package_id": "0xbf810d44089d9ac90167d0b29f589396a5f9bb77baa0fd75a8e47361464f2aa",
+    "name": "Thala",
+    "category": "defi",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "aptos",
+    "package_id": "0x1c3206329806286fd2223647c9f9b130e66baeb6d7224a18c1f642ffe48f3b4c",
+    "name": "Panora",
+    "category": "dex",
+    "icon_url": "https://panora.exchange/assets/images/panora_gradient_logo.png",
+    "verified": 1
+  },
+  {
+    "ecosystem": "aptos",
+    "package_id": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e",
+    "name": "Liquidswap v0.5",
+    "category": "auto-discovered",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "aptos",
+    "package_id": "0x4bf51972879e3b95c4781a5cdcb9e1ee24ef483e7d22f2d903626f126df62bd1",
+    "name": "CellanaFinance",
+    "category": "auto-discovered",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "aptos",
+    "package_id": "0xec42a352cc65eca17a9fa85d0fc602295897ed6b8b8af6a6c79ef490eb8f9eba",
+    "name": "Cetus",
+    "category": "auto-discovered",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "aptos",
+    "package_id": "0x16fe2df00ea7dde4a63409201f7f4e536bde7bb7335526a35d05111e68aa322c",
+    "name": "Unknown Package",
+    "category": "auto-discovered",
+    "icon_url": null,
+    "verified": 0
+  },
+  {
+    "ecosystem": "aptos",
+    "package_id": "0x12169b6e1bf75ab1a2b2d987d20f8dd4c191e5dbc2066cb7e9af40b1fa7fb659",
+    "name": "Unknown Package",
+    "category": "auto-discovered",
+    "icon_url": null,
+    "verified": 0
+  },
+  {
+    "ecosystem": "aptos",
+    "package_id": "0x487e905f899ccb6d46fdaec56ba1e0c4cf119862a16c409904b8c78fab1f5e8a",
+    "name": "Tapp Exchange",
+    "category": "auto-discovered",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "aptos",
+    "package_id": "0x8b4a2c4bb53857c718a04c020b98f8c2e1f99a68b0f57389a8bf5434cd22e05c",
+    "name": "Hyperion",
+    "category": "auto-discovered",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "aptos",
+    "package_id": "0x75b4890de3e312d9425408c43d9a9752b64ab3562a30e89a55bdc568c645920",
+    "name": "ThalaSwap CL",
+    "category": "auto-discovered",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "aptos",
+    "package_id": "0xdb582d9421bbf89ab10ecd6bf36236cc322d66e6a6ba6d82d52b6ec476932a7c",
+    "name": "0xdb582d9421bbf89ab10ecd6bf36236cc322d66e6a6ba6d82d52b6ec476932a7c",
+    "category": "auto-discovered",
+    "icon_url": null,
+    "verified": 0
+  },
+  {
+    "ecosystem": "aptos",
+    "package_id": "0x0000000000000000000000000000000000000000000000000000000000000001",
+    "name": "Aptos framework functions",
+    "category": "auto-discovered",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "aptos",
+    "package_id": "0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6",
+    "name": "Thala LSD",
+    "category": "auto-discovered",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "aptos",
+    "package_id": "0x0000000000000000000000000000000000000000000000000000000000000004",
+    "name": "Aptos digital asset standard",
+    "category": "auto-discovered",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "aptos",
+    "package_id": "0xc7efb4076dbe143cbcd98cfaaa929ecfc8f299203dfff63b95ccb6bfe19850fa",
+    "name": "Pancake",
+    "category": "auto-discovered",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "aptos",
+    "package_id": "0xe11c12ec495f3989c35e1c6a0af414451223305b579291fc8f3d9d0575a23c26",
+    "name": "Mercato",
+    "category": "auto-discovered",
+    "icon_url": null,
+    "verified": 1
+  },
+  {
+    "ecosystem": "aptos",
+    "package_id": "0x0000000000000000000000000000000000000000000000000000000000000003",
+    "name": "Aptos legacy tokens",
+    "category": "auto-discovered",
+    "icon_url": null,
+    "verified": 1
+  }
+]
