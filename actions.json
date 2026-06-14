@@ -1,0 +1,156 @@
+[
+  {
+    "ecosystem": "sui",
+    "package_id": "0x1eabed72c53feb3805120a081dc15963c204dc8d091542592abaf7a35689b2fb",
+    "module_name": "router",
+    "function_name": "swap",
+    "intent": "Swap"
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0x6864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b",
+    "module_name": "router",
+    "function_name": "swap",
+    "intent": "Swap"
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0xa45b8ffca59e5b44ec7c04481a04cb620b0e07b2b183527bca4e5f32372c5f1a",
+    "module_name": "market",
+    "function_name": "deposit",
+    "intent": "Deposit"
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0xa45b8ffca59e5b44ec7c04481a04cb620b0e07b2b183527bca4e5f32372c5f1a",
+    "module_name": "market",
+    "function_name": "borrow",
+    "intent": "Borrow"
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0xa45b8ffca59e5b44ec7c04481a04cb620b0e07b2b183527bca4e5f32372c5f1a",
+    "module_name": "market",
+    "function_name": "repay",
+    "intent": "Repay"
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0xa45b8ffca59e5b44ec7c04481a04cb620b0e07b2b183527bca4e5f32372c5f1a",
+    "module_name": "market",
+    "function_name": "withdraw",
+    "intent": "Withdraw"
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d",
+    "module_name": "stake",
+    "function_name": "stake",
+    "intent": "Stake"
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0x83556891f4a0f233ce7b05cfe7f957d4020492a34f5405b2cb9377d060bef4bf",
+    "module_name": "spring_sui",
+    "function_name": "mint",
+    "intent": "Mint"
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0x337f4f4f6567fcd778d5454f27c16c70e2f274cc6377ea6249ddf491482ef497",
+    "module_name": "pool",
+    "function_name": "swap_exact_base_for_quote",
+    "intent": "Swap"
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0xee0041239b89564ce870a7dec5ddc5d114367ab94a1137e90aa0633cb76518e0",
+    "module_name": "incentive_v2",
+    "function_name": "deposit",
+    "intent": "Deposit"
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0xee0041239b89564ce870a7dec5ddc5d114367ab94a1137e90aa0633cb76518e0",
+    "module_name": "incentive_v2",
+    "function_name": "borrow",
+    "intent": "Borrow"
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0x6864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b",
+    "module_name": "pool",
+    "function_name": "add_liquidity",
+    "intent": "Add Liquidity"
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0x6864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b",
+    "module_name": "pool",
+    "function_name": "remove_liquidity",
+    "intent": "Remove Liquidity"
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0x6864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b",
+    "module_name": "rewarder",
+    "function_name": "collect_reward",
+    "intent": "Claim Reward"
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0xa45b8ffca59e5b44ec7c04481a04cb620b0e07b2b183527bca4e5f32372c5f1a",
+    "module_name": "market",
+    "function_name": "liquidate",
+    "intent": "Liquidate"
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0xee0041239b89564ce870a7dec5ddc5d114367ab94a1137e90aa0633cb76518e0",
+    "module_name": "pool",
+    "function_name": "deposit",
+    "intent": "Deposit"
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0xee0041239b89564ce870a7dec5ddc5d114367ab94a1137e90aa0633cb76518e0",
+    "module_name": "pool",
+    "function_name": "borrow",
+    "intent": "Borrow"
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0xee0041239b89564ce870a7dec5ddc5d114367ab94a1137e90aa0633cb76518e0",
+    "module_name": "pool",
+    "function_name": "repay",
+    "intent": "Repay"
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0xee0041239b89564ce870a7dec5ddc5d114367ab94a1137e90aa0633cb76518e0",
+    "module_name": "pool",
+    "function_name": "withdraw",
+    "intent": "Withdraw"
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0xee0041239b89564ce870a7dec5ddc5d114367ab94a1137e90aa0633cb76518e0",
+    "module_name": "pool",
+    "function_name": "liquidate",
+    "intent": "Liquidate"
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0x83556891f4a0f233ce7b05cfe7f957d4020492a34f5405b2cb9377d060bef4bf",
+    "module_name": "spring_sui",
+    "function_name": "stake",
+    "intent": "Stake"
+  },
+  {
+    "ecosystem": "sui",
+    "package_id": "0x83556891f4a0f233ce7b05cfe7f957d4020492a34f5405b2cb9377d060bef4bf",
+    "module_name": "spring_sui",
+    "function_name": "unstake",
+    "intent": "Unstake"
+  }
+]
